@@ -1,58 +1,55 @@
-#banner{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 10px;
-    color: white;
+#banner {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  color: white;
 }
-#clock{
-    text-align: center;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-    cursor: pointer;
+#clock {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  cursor: pointer;
 }
-.center{
-    border: 1px solid black;
-    padding: 20px 30px;
-    margin: 30px;
-    background-color: black;
-    border-radius: 23px;
-
+.center {
+  border: 1px solid black;
+  padding: 20px 30px;
+  margin: 30px;
+  background-color: black;
+  border-radius: 23px;
 }
-#banner1{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 10px;
-    color: white;
-   
+#banner1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px;
+  color: white;
 }
-.center2{
-    border: 1px solid black;
-    padding: 20px 30px;
-    margin: 30px;
-    background-color: black;
-    border-radius: 23px;
-
+.center2 {
+  border: 1px solid black;
+  padding: 20px 30px;
+  margin: 30px;
+  background-color: black;
+  border-radius: 23px;
 }
-#date{
-    text-align: center;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-    cursor: pointer;
-    
-    
+#date {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  cursor: pointer;
 }
-h3{
-   color: white;
-   text-align: center;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
- 
+h3 {
+  color: white;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .foot {
-    text-align: center;
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 220px;
-    font-weight: 400;
-    background-color: blue;
-    color: white;
-    font-style: italic;
-  }
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 220px;
+  font-weight: 400;
+  background-color: blue;
+  color: white;
+  font-style: italic;
+}
+body {
+  background-color: blueviolet;
+}

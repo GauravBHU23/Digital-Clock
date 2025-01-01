@@ -1,10 +1,9 @@
-const clock = document.getElementById('clock');
-const dateElement = document.querySelector('#date');
+const clock = document.getElementById("clock");
+const dateElement = document.querySelector("#date");
 
-
-setInterval(function()  {
-    let date = new Date();
-    clock.innerHTML = date.toLocaleTimeString();
+setInterval(function () {
+  let date = new Date();
+  clock.innerHTML = date.toLocaleTimeString();
 }, 1000);
 
 // function updateDate(){
@@ -14,9 +13,7 @@ setInterval(function()  {
 //     updateDate();
 //     setInterval(updateDate,24*60*60*1000);
 
-setInterval(function()  {
-    let date = new Date();
-    dateElement.innerHTML = date.toDateString();
+setInterval(function () {
+  let date = new Date();
+  dateElement.innerHTML = date.toDateString();
 });
-
-
